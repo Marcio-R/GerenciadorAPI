@@ -1,0 +1,6 @@
+@GerenciadorAPI_HostAddress = http://localhost:5227
+
+GET {{GerenciadorAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
